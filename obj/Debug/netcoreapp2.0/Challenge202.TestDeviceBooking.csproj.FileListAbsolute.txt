@@ -1,0 +1,10 @@
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/bin/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.deps.json
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/bin/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.runtimeconfig.json
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/bin/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.runtimeconfig.dev.json
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/bin/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.dll
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/bin/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.pdb
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/obj/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.csproj.CoreCompileInputs.cache
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/obj/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.AssemblyInfoInputs.cache
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/obj/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.AssemblyInfo.cs
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/obj/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.dll
+/home/lukas/DevBridge/projektas/challenge-202/Challenge202.TestDeviceBooking/obj/Debug/netcoreapp2.0/Challenge202.TestDeviceBooking.pdb

@@ -1,0 +1,30 @@
+{
+  "name": "device-booking-app-challenge-202",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.23.0",
+    "react": "^16.7.0",
+    "react-datepicker": "^1.8.0",
+    "react-dom": "^16.7.0",
+    "react-dropdown-advanced": "^1.2.9",
+    "react-redux": "^5.1.1",
+    "react-router": "^3.2.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.3.0",
+    "rimraf": "^2.6.3",
+    "simple-react-modal": "^0.5.1"
+  },
+  "scripts": {
+    "start": "rimraf ./build && react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-app-rewired eject"
+  },
+  "devDependencies": {
+    "react-app-rewired": "^1.6.2"
+  }
+}
